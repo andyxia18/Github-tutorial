@@ -6,3 +6,5 @@ git config --global user.name "Andy Xia"
 git config --global user.email "xiayu940719@gmail.com"
 git log --author="user.name"
 git status
+git add "name of file"
+git commit -m "name of this commit behavior"
