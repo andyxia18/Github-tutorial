@@ -9,4 +9,4 @@ git status
 git add "name of file"
 git commit -m "name of this commit behavior"
 git diff 
-Git diff —statged
+Git diff —staged
