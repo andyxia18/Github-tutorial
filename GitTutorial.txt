@@ -10,3 +10,7 @@ git add "name of file"
 git commit -m "name of this commit behavior"
 git diff 
 Git diff —staged
+Git commit -am (no needs for add statement)
+Git checkout —- filename (undo changes for your files)
+Git reset HEAD filename (onstage files)
+Git checkout “commit number” —- filename (get old version from repository)
